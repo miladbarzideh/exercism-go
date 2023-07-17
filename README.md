@@ -16,3 +16,4 @@
 | vehicle-purchase          | Completed |
 | welcome-to-tech-palace    | Completed |
 | annalyns-infiltration     | Completed |
+| card-tricks               | Completed |
