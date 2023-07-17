@@ -26,10 +26,7 @@ func SetItem(slice []int, index, value int) []int {
 
 // PrependItems adds an arbitrary number of values at the front of a slice.
 func PrependItems(slice []int, values ...int) []int {
-	prependItems := []int{}
-	for _, value := range values {
-		prependItems = append(prependItems, value)
-	}
+	prependItems := append([]int{}, values...)
 	return append(prependItems, slice...)
 }
 
