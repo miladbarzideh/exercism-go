@@ -18,3 +18,4 @@
 | annalyns-infiltration     | Completed |
 | card-tricks               | Completed |
 | blackjack                 | Completed |
+| need-for-speed            | Completed |
