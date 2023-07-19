@@ -19,3 +19,4 @@
 | card-tricks               | Completed |
 | blackjack                 | Completed |
 | need-for-speed            | Completed |
+| animal-magic              | Completed |
