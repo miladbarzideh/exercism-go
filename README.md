@@ -20,3 +20,4 @@
 | blackjack                 | Completed |
 | need-for-speed            | Completed |
 | animal-magic              | Completed |
+| bird-watcher              | Completed |
