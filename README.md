@@ -22,4 +22,5 @@
 | animal-magic              | Completed |
 | bird-watcher              | Completed |
 | lasagna-master            | Completed |
-| interest-is-interesting    | Completed |
+| interest-is-interesting   | Completed |
+| booking-up-for-beauty     | Completed |
