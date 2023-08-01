@@ -24,3 +24,4 @@
 | lasagna-master            | Completed |
 | interest-is-interesting   | Completed |
 | booking-up-for-beauty     | Completed |
+| gross-store               | Completed |
