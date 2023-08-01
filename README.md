@@ -25,3 +25,4 @@
 | interest-is-interesting   | Completed |
 | booking-up-for-beauty     | Completed |
 | gross-store               | Completed |
+| chessboard                | Completed |
