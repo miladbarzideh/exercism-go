@@ -26,3 +26,4 @@
 | booking-up-for-beauty     | Completed |
 | gross-store               | Completed |
 | chessboard                | Completed |
+| election-day              | Completed |
