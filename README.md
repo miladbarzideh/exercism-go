@@ -29,3 +29,4 @@
 | election-day              | Completed |
 | elons-toys                | Completed |
 | logs-logs-logs            | Completed |
+| parsing-log-files         | Completed |
