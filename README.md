@@ -35,3 +35,4 @@
 | meteorology               | Completed |
 | sorting-room              | Completed |
 | the-farm                  | Completed |
+| expenses                  | Completed |
