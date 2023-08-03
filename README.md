@@ -32,3 +32,4 @@
 | parsing-log-files         | Completed |
 | airport-robot             | Completed |
 | census                    | Completed |
+| meteorology               | Completed |
