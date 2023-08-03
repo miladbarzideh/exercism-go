@@ -34,3 +34,4 @@
 | census                    | Completed |
 | meteorology               | Completed |
 | sorting-room              | Completed |
+| the-farm                  | Completed |
